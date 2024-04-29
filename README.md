@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vesta-prashank-kadam
+- 👋 Hi, I’m Prashank
 - 👀 I’m interested in Graph ML and Building Robust Production Pipelines for ML Solutions
 - 📫 How to reach me prashank.kadam@vesta.io
 - ⚡ Fun fact: All polar bears are left-handed
